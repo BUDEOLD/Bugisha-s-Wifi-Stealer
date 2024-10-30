@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Wifi Password Stealer</title>
+    <title>Policy Password tool</title>
     <style>
       td,
       th {
@@ -18,7 +18,7 @@
     <p>
     <h1>Policy Password tool</h1>
     <p>
-      <i>I am not responible for anything that happens to you with this.</i>
+      <i>This tool should not be used for illegal activity. By using this tool, you acknowledge that you are legally allowed to extract the password(s) in question.</i>
       <br />
       <br />
       <b>Upload chrome-net-export-log.json - </b>
@@ -32,14 +32,14 @@
         <th>HiddenSSID</th>
       </tr>
     </table>
-    <h2>How to use</h2>Go to my site in about me</p>
+    <h2>How to use</h2> - Visit chrome://net-export <br /> - In "OPTIONS" set "Include raw bytes" <br /> - Click "Start Logging to Disk" <br /> - Visit chrome://policy <br /> - Click "Reload policies" <br /> - Go back to chrome://net-export and click "Stop logging" <br /> - Upload file here :) </p>
     </p>
     <div id="log">
     </div>
     <br />
     <br />
     <br /><br />
-    <p style="text-align:right">join <b>TitaniumNetwork</b>: <a href="My site :)</a>
+    <p style="text-align:right">join <b>TitaniumNetwork</b>: <a href="https://discord.gg/unblock">discord.gg/unblock</a>
       <br />
       <i>~ luphoria</i>
     </p>
